@@ -15,7 +15,7 @@ Recopilación de datos: Se utilizaron datos extraídos del sitio web de ENACOM.
 
 Análisis exploratorio:Se llevó a cabo un EDA para estudiar la estructura de los datos, identificar valores atípicos y explorar posibles correlaciones entre las variables.
 
-Definición de KPIs: Se seleccionaron cuatro KPIs principales para evaluar el desempeño del sector:
+Definición de KPIs: Se seleccionaron Tres KPIs principales para evaluar el desempeño del sector:
 
 Porcentaje de aumento de tecnologias año.
 
