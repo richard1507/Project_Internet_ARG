@@ -17,9 +17,12 @@ Análisis exploratorio:Se llevó a cabo un EDA para estudiar la estructura de lo
 
 Definición de KPIs: Se seleccionaron cuatro KPIs principales para evaluar el desempeño del sector:
 
-Porcentaje de aumento de tecnologias año
+Porcentaje de aumento de tecnologias año.
+
 Porcentaje de aumento de tecnologias trimestrales
+
 Cantidad y tipo de conexiones según el año
+
 Desarrollo del panel: Se creó un panel interactivo en Power BI para visualizar los KPIs y permitir un análisis dinámico de los datos.
 
 ### Recursos
